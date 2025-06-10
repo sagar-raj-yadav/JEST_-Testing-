@@ -12,3 +12,7 @@
 
 ->ek test file ke andar multiple component ko test kar sakte h.
 
+->Jest -> to run anc check test
+->react testing library -> used to render components
+->common matchers used in Jest? 
+toBe() , toEqual()
